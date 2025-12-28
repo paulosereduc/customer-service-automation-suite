@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         Bloco de Notas Corporativo + Macros (v1.9 Reset Position)
+// @name         Bloco de Notas Corporativo + Macros (v4.2)
 // @namespace    https://gist.github.com/paulosereduc
-// @version      1.9
-// @description  Bloco de notas v1.7 com adição de Modo Escuro e Reset de Posição/Tamanho.
-// @author       Paulo Sereduc
-// @match        https://conversas.hyperflow.global/*
+// @version      4.2
+// @description  Bloco de notas v4.2 com adição de Modo Escuro e Reset de Posição/Tamanho.
+// @author       Paulo Victor Freire da Silva
+// @github       github.com/pv-flows
+// @email        pv.flows@gmail.com
 // @downloadURL  https://gist.githubusercontent.com/paulosereduc/bc11b6e8107d4391e796ad2f8cd7b09a/raw/bloconotasflowkey.user.js
 // @updateURL    https://gist.githubusercontent.com/paulosereduc/bc11b6e8107d4391e796ad2f8cd7b09a/raw/bloconotasflowkey.user.js
 // @grant        none
