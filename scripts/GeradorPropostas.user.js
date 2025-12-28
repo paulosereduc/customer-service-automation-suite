@@ -7,7 +7,6 @@
 // @github       github.com/pv-flows
 // @email        pv.flows@gmail.com
 // @match        https://conversas.hyperflow.global/*
-// @match        https://web.whatsapp.com/*
 // @grant        none
 // @updateURL    https://gist.githubusercontent.com/paulosereduc/7e8590926811fd2d07af47bbb82ddc5f/raw/GeradorPropostas.user.js
 // @downloadURL  https://gist.githubusercontent.com/paulosereduc/7e8590926811fd2d07af47bbb82ddc5f/raw/GeradorPropostas.user.js
