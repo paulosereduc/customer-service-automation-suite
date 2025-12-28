@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SmartCopy Daemon 
-// @namespace    https://gist.github.com/paulosereduc
+// @namespace    https://gist.github.com/pv-flows
 // @version      1.6
 // @description  Cópia automática Global. Protege edição manual, mas libera cópia em clique triplo (Planilhas). Global + Proteção Painel + Planilhas
 // @author       Paulo Victor Freire da Silva
