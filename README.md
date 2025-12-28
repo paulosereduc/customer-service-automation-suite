@@ -26,7 +26,7 @@
 
 **[EN]** An advanced tool that injects a calculator panel directly into the CRM interface. It automates the math for debt negotiation and generates standardized negotiation texts instantly.
 
-**[PT]** Uma ferramenta avançada que injeta um painel de calculadora diretamente na interface do CRM. Ela automatiza a matemática da negociação de dívidas e gera textos de negociação padronizados instantaneamente.
+**[BR]** Uma ferramenta avançada que injeta um painel de calculadora diretamente na interface do CRM. Ela automatiza a matemática da negociação de dívidas e gera textos de negociação padronizados instantaneamente.
 
 * **Smart Date Logic:** Calculates due dates automatically based on business days, utilizing an integrated calendar of **Brazilian National Holidays (2025-2027)**.
 * **Validation:** Prevents logic errors (e.g., ensuring credit card installments are calculated correctly).
@@ -41,7 +41,7 @@
 
 **[EN]** A persistent, floating workspace for temporary data storage during customer interactions, designed to eliminate the need for external apps like Windows Notepad.
 
-**[PT]** Um espaço de trabalho flutuante e persistente para armazenamento temporário de dados durante interações com clientes, projetado para eliminar a necessidade de apps externos como o Bloco de Notas do Windows.
+**[BR]** Um espaço de trabalho flutuante e persistente para armazenamento temporário de dados durante interações com clientes, projetado para eliminar a necessidade de apps externos como o Bloco de Notas do Windows.
 
 * **State Persistence:** Uses `LocalStorage` to save notes automatically. Data remains safe even if the browser crashes or the page refreshes.
 * **Floating UI:** Draggable interface that overlays the CRM without blocking critical information.
@@ -56,7 +56,7 @@
 
 **[EN]** A background utility that solves the conflict between "selecting text to edit" vs. "copying text to paste" in web-based spreadsheets and CRM inputs.
 
-**[PT]** Um utilitário de segundo plano que resolve o conflito entre "selecionar texto para editar" vs. "copiar texto para colar" em planilhas web e inputs de CRM.
+**[BR]** Um utilitário de segundo plano que resolve o conflito entre "selecionar texto para editar" vs. "copiar texto para colar" em planilhas web e inputs de CRM.
 
 * **Context Awareness:** Blocks auto-copy when the user drags the mouse (interpreting it as an intent to edit).
 * **Triple-Click Trigger:** Intelligently enables auto-copy only on **triple-click**, facilitating bulk data transfer from spreadsheets.
@@ -69,7 +69,7 @@
 
 **[EN]** These tools are designed to run with script managers like **Tampermonkey** or **Violentmonkey**.
 
-**[PT]** Estas ferramentas foram projetadas para rodar com gerenciadores de script como **Tampermonkey** ou **Violentmonkey**.
+**[BR]** Estas ferramentas foram projetadas para rodar com gerenciadores de script como **Tampermonkey** ou **Violentmonkey**.
 
 1. Install the extension in your browser.
 2. Navigate to the `/scripts` folder in this repository.
