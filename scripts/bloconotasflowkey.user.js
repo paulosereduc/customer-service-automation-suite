@@ -6,7 +6,7 @@
 // @author       Paulo Victor Freire da Silva
 // @github       github.com/pv-flows
 // @email        pv.flows@gmail.com
-// @match        *://*/*
+// @match        *https://conversas.hyperflow.global/*
 // @downloadURL  https://gist.githubusercontent.com/paulosereduc/bc11b6e8107d4391e796ad2f8cd7b09a/raw/bloconotasflowkey.user.js
 // @updateURL    https://gist.githubusercontent.com/paulosereduc/bc11b6e8107d4391e796ad2f8cd7b09a/raw/bloconotasflowkey.user.js
 // @grant        none
