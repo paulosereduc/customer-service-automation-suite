@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Gerador de Propostas Financeiras (v3.2)
-// @namespace    https://gist.github.com/paulosereduc
+// @namespace    https://gist.github.com/pv-flows
 // @version      3.2
 // @description  Correção de layout + Feriados Nacionais (2025/2026/2027).
 // @author       Paulo Victor Freire da Silva
