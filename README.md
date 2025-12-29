@@ -84,5 +84,5 @@
 ---
 
 ## 👤 Author
-**Paulo Sereduc**
+**Paulo Victor**
 *Biologist & Tech Enthusiast | Solucionando problemas reais de negócio através de código.*
