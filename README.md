@@ -24,9 +24,9 @@
 ![Demo Gerador de Propostas](assets/demo-gerador.gif)
 > *Acima: Painel flutuante calculando datas e gerando texto de negociação automaticamente.*
 
-**[EN]** An advanced tool that injects a calculator panel directly into the CRM interface. It automates the math for debt negotiation and generates standardized negotiation texts instantly.
+**[EN]** An tool that injects a calculator panel directly into the CRM interface. It automates the math for debt negotiation and generates standardized negotiation texts instantly.
 
-**[BR]** Uma ferramenta avançada que injeta um painel de calculadora diretamente na interface do CRM. Ela automatiza a matemática da negociação de dívidas e gera textos de negociação padronizados instantaneamente.
+**[BR]** Uma avançada que injeta um painel de calculadora diretamente na interface do CRM. Ela automatiza a matemática da negociação de dívidas e gera textos de negociação padronizados instantaneamente.
 
 * **Smart Date Logic:** Calculates due dates automatically based on business days, utilizing an integrated calendar of **Brazilian National Holidays (2025-2027)**.
 * **Validation:** Prevents logic errors (e.g., ensuring credit card installments are calculated correctly).
