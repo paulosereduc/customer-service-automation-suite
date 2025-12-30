@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Gerador de Propostas Financeiras (v3.2)
+// @name         Gerador de Propostas Financeiras (v3.3)
 // @namespace    https://gist.github.com/pv-flows
 // @version      3.2
-// @description  Correção de layout + Feriados Nacionais (2025/2026/2027).
+// @description  Correção de layout + Feriados Nacionais (2025/2026/2027) + Auto-Limpeza Diferida.
 // @author       Paulo Victor Freire da Silva
 // @github       github.com/pv-flows
 // @email        pv.flows@gmail.com
@@ -445,7 +445,18 @@
             const btn = document.getElementById('btn-copiar-fin');
             const originalText = btn.innerText;
             btn.innerText = "COPIADO! ✅"; btn.style.background = "#48bb78";
-            setTimeout(() => { btn.innerText = originalText; btn.style.background = "#6b46c1"; container.style.display = 'none'; }, 1200);
+            
+            // --- NOVA LÓGICA: LIMPAR CAMPOS APÓS O FECHAMENTO ---
+            // A limpeza agora ocorre DENTRO do setTimeout que fecha o painel
+            setTimeout(() => { 
+                btn.innerText = originalText; 
+                btn.style.background = "#6b46c1"; 
+                container.style.display = 'none'; 
+                
+                // Limpa os campos aqui, ao fechar
+                inputs.forEach(input => { if (input.id !== 'fin-data') input.value = ''; });
+            }, 1200);
+            // ----------------------------------------------------
         };
 
         // --- ARRASTE DO PAINEL ---
